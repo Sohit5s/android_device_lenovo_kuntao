@@ -16,3 +16,12 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/rr_kuntao.mk
+    
+    
+COMMON_LUNCH_CHOICES := \
+
+rr_kuntao-user \
+rr_kuntao-userdebug \
+rr_kuntao-eng
+
+    
